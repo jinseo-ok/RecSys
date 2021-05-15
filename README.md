@@ -7,4 +7,6 @@
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)(2016, Paul Covington) - [리뷰](https://velog.io/@jinseock95/%EB%85%BC%EB%AC%B8Deep-Neural-Networks-for-YouTube-Recommendations2016-Paul-Covington-oiiitaw2)
 
 - [DCN V2: Improved Deep & Cross Network and Practical Lessons
-for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)(2020, Ruoxi Wang) - [리뷰]()
+for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)(2020, Ruoxi Wang) - [리뷰](https://velog.io/@jinseock95/%EB%85%BC%EB%AC%B8DCN-V2-Improved-Deep-Cross-Network-and-Practical-Lessons-for-Web-scale-Learning-to-Rank-Systems2020-Ruoxi-Wang)
+
+- [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)(2017, Xiangnan He) - [리뷰](https://velog.io/@jinseock95/%EB%85%BC%EB%AC%B8Neural-Collaborative-Filtering)
