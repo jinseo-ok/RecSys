@@ -74,9 +74,9 @@ class PandasGraphBuilder(object):
         self.relation_dst_key = {}      # mapping from relation name to destination key
 
     def add_entities(self, entity_table, primary_key, name):
-        entities = entity_table[primary_key].astype('category')
-        if not (entities.value_counts() == 1).all():
-            raise ValueError('Different entity with the same primary key detected.')
+        entities = entity_table[primary_key].astype('category') # DF의 PK를 entites로
+        if not (entities.value_counts() == 1).all(): # 중복 유저 및 아이템이 있다면
+            raise ValueError('Different entity with the same primary key detected.') # ValueError
         # preserve the category order in the original entity table
         entities = entities.cat.reorder_categories(entity_table[primary_key].values)
 
@@ -105,6 +105,7 @@ class PandasGraphBuilder(object):
         srctype = self.entity_pk_to_name[source_key]
         dsttype = self.entity_pk_to_name[destination_key]
         etype = (srctype, name, dsttype)
+        print(etype)
         self.relation_name_to_etype[name] = etype
         self.edges_per_relation[etype] = (src.cat.codes.values.astype('int64'), dst.cat.codes.values.astype('int64'))
         self.relation_tables[name] = relation_table
