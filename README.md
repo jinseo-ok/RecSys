@@ -10,3 +10,5 @@
 for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)(2020, Ruoxi Wang) - [리뷰](https://velog.io/@jinseock95/%EB%85%BC%EB%AC%B8DCN-V2-Improved-Deep-Cross-Network-and-Practical-Lessons-for-Web-scale-Learning-to-Rank-Systems2020-Ruoxi-Wang)
 
 - [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)(2017, Xiangnan He) - [리뷰](https://velog.io/@jinseock95/%EB%85%BC%EB%AC%B8Neural-Collaborative-Filtering)
+
+- [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)(2018, Rex Ying) - [리뷰]()
