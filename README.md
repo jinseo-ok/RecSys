@@ -20,6 +20,10 @@ for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)(20
 
 ## 📌 유용한 블로그
 
+- [jihoo-kim, awesome-RecSys](https://github.com/jihoo-kim/awesome-RecSys?fbclid=IwAR2FsHe1_CHDU3nJ_yMm6j5N2y5gBUMsZqM7eAS0prqImXrvJclh0ighjco#1-books)
+
+- 
+
 
 
 
