@@ -18,7 +18,9 @@ for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)(20
 - [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)(2018, Rex Ying) - [리뷰]()
 
 
-## 
+## 📌 유용한 블로그
+
+
 
 
 
