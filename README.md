@@ -1,12 +1,8 @@
 # Recommendation System
 
---------
-
 - 해당 저장소는 관심을 가지고 있는 **추천 시스템** 분야를 공부하면서 배운점들을 기록하는 공간입니다.
 - 논문 리뷰는 [여기](https://velog.io/@jinseock95?tag=%EB%85%BC%EB%AC%B8) 에서 확인할 수 있습니다.
 - 부족한 부분이 많기에, 잘못된 내용은 블로그 댓글 남겨주시면 감사하겠습니다.
-
----------
 
 ## 📄 Paper Review
 
@@ -21,7 +17,6 @@ for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)(20
 
 - [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)(2018, Rex Ying) - [리뷰]()
 
---------
 
 ## 
 
